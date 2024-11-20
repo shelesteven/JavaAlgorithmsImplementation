@@ -1,0 +1,6 @@
+/bin/
+/build/
+/dist/
+
+# Project exclude paths
+/classes/
